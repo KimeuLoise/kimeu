@@ -134,6 +134,7 @@ body {
     color: rgb(230, 196, 7);
     text-align:center;
     margin-top: 3px;
+    float: left;
 
   }
   #logo{
